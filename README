@@ -1,0 +1,20 @@
+A.
+000000000040052d T _Z7averageif
+00000000004004ed T _Z7averagePdRd
+
+using
+i for int
+f for float
+d for double
+P for pointer
+R for reference
+
+B.
+1 8
+4 8
+4 8
+8 8
+
+size of variable types shows how much space the variable occupies.
+
+pointer indicates the first position of the space, so no matter what type the variable is, the size of it's pointer should be the same.
